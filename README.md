@@ -4,10 +4,15 @@
 
 **A fully client-side, highly secure, and offline-ready Bitcoin address generator.**
 
-[![Security: 100% Client-Side](https://img.shields.io/badge/Security-100%25%20Client--Side-brightgreen.svg?style=for-the-badge)](#)
-[![Offline Ready](https://img.shields.io/badge/Offline-Ready-blue.svg?style=for-the-badge)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-brightgreen.svg?style=for-the-badge&logo=github)](https://abdallahp2p.github.io/bitcoin-address-generator/)
+[![Security: 100% Client-Side](https://img.shields.io/badge/Security-100%25%20Client--Side-blue.svg?style=for-the-badge)](#)
 [![UI: Web3 Glassmorphism](https://img.shields.io/badge/UI-Web3%20Glassmorphism-purple.svg?style=for-the-badge)](#)
-[![Mobile: Fully Responsive](https://img.shields.io/badge/Mobile-Fully%20Responsive-orange.svg?style=for-the-badge)](#)
+
+<br>
+
+<a href="https://abdallahp2p.github.io/bitcoin-address-generator/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Try_it_Live_Now-Click_Here_to_Open_App-00f0ff?style=for-the-badge&logoColor=black" alt="Live Demo" height="45">
+</a>
 
 </div>
 
@@ -17,7 +22,6 @@
 
 <div align="center">
   
-  <!-- لقد قمت بإصلاح رابط الصورة الأولى هنا ليعمل بشكل صحيح -->
   <img src="https://raw.githubusercontent.com/AbdallahP2P/bitcoin-address-generator/main/images/1.jpg" alt="Bitcoin Address Generator - Desktop UI" width="800">
   <br>
   <em>(Single Address Generator - Dark Mode)</em>
@@ -37,6 +41,8 @@
 This repository is a **massive architectural and visual overhaul** of a classic Bitcoin address generator. While the core cryptographic algorithms remain battle-tested, the entire architecture, UI/UX, and responsiveness have been rebuilt from the ground up to meet modern Web3 standards.
 
 The goal of this project is to provide a tool that is not only cryptographically secure but also visually stunning, flawlessly mobile-responsive, and easy for developers to read, maintain, and deploy.
+
+🌐 **Live Demo:** [https://abdallahp2p.github.io/bitcoin-address-generator/](https://abdallahp2p.github.io/bitcoin-address-generator/)
 
 ---
 
