@@ -16,14 +16,18 @@
 ## 📸 Project Preview
 
 <div align="center">
-  <!-- قم باستبدال الرابط أدناه باسم الصورة التي قمت برفعها في مستودعك -->
-  <img src="images/logo.png" alt="Bitcoin Address Generator - Web3 UI" width="800" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.5);">
-  <br><br>
-  <em>(Dark Mode - Glassmorphism UI)</em>
   
-    <img src="images/1.jpg" alt="Bitcoin Address Generator - Web3 UI" width="800" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.5);">
-    
-     <img src="images/2.jpg" alt="Bitcoin Address Generator - Web3 UI" width="800" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.5);"> 
+  <!-- لقد قمت بإصلاح رابط الصورة الأولى هنا ليعمل بشكل صحيح -->
+  <img src="https://raw.githubusercontent.com/AbdallahP2P/bitcoin-address-generator/main/images/1.jpg" alt="Bitcoin Address Generator - Desktop UI" width="800">
+  <br>
+  <em>(Single Address Generator - Dark Mode)</em>
+  
+  <br><br>
+
+  <img src="https://raw.githubusercontent.com/AbdallahP2P/bitcoin-address-generator/main/images/2.jpg" alt="Bitcoin Address Generator - Mobile UI" width="800">
+  <br>
+  <em>(Mnemonic Seed & Mobile View)</em>
+
 </div>
 
 ---
